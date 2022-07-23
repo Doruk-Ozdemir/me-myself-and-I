@@ -5,7 +5,7 @@
 - 📫 You can reach me at:
 - 📧 E-mail: doruk.ozdemir@migrosonline.com
 - ☎️ Telephone number: +90 530 074 73 57
-- 🔗 My LinkedInhttps://www.linkedin.com/in/doruk-0zdemir/
+- 🔗 My LinkedIn https://www.linkedin.com/in/doruk-0zdemir/
 
 <!---
 WizardOfMigrOZ/WizardOfMigrOZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
